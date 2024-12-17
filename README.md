@@ -78,5 +78,6 @@ pip install matplotlib
 
 Upon running the script, you will obtain a plot named `speedup.png`, which visually represents the speedup achieved when using multiple processes as opposed to a single-threaded approach.
 
-![image](https://github.com/user-attachments/assets/838271b6-46cc-491d-aeac-e9710953dffe)
+![image](https://github.com/user-attachments/assets/bb08b11c-0710-4019-bf9b-b494c5d0524d)
+
 
