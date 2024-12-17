@@ -123,4 +123,4 @@ def plot_diff(size: int) -> None:
 
 if __name__ == '__main__':
     freeze_support()
-    plot_diff(size=10000)
+    plot_diff(size=100000)
