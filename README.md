@@ -78,14 +78,5 @@ pip install matplotlib
 
 Upon running the script, you will obtain a plot named `speedup.png`, which visually represents the speedup achieved when using multiple processes as opposed to a single-threaded approach.
 
-## Contributing
+![image](https://github.com/user-attachments/assets/838271b6-46cc-491d-aeac-e9710953dffe)
 
-Contributions are welcome! If you would like to contribute to this project, please open an issue or a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Inspired by various statistical methods and the need for optimized performance in large-scale data analysis.
