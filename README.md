@@ -54,7 +54,7 @@ pip install matplotlib
 
 2. Change to the project directory:
 
-   cd kendalls_tau_calculation
+   cd parallel_algorithms
 
 3. Run the script to generate data, calculate Kendall's Tau, and visualize the results:
 
