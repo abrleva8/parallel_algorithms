@@ -50,7 +50,7 @@ pip install matplotlib
 
 1. Clone the repository to your local machine:
 
-   git clone https://github.com/abrleva8/kendalls_tau_calculation.git
+   git clone https://github.com/abrleva8/parallel_algorithms.git
 
 2. Change to the project directory:
 
@@ -64,9 +64,9 @@ pip install matplotlib
 
 ## Code Structure
 
-- create_data(size): Generates two lists of random floating-point numbers of length size.
-- timing_decorator(func): A decorator that measures execution time of the provided function.
-- count_concordant_discordant(i, x, y): Counts concordant and discordant pairs for a given index.
+- `create_data(size)`: Generates two lists of random floating-point numbers of length size.
+- `timing_decorator(func)`: A decorator that measures execution time of the provided function.
+- `count_concordant_discordant(i, x, y)`: Counts concordant and discordant pairs for a given index.
 
 
 - `kendall_tau_multi_thread(x, y, num_processes)`: Calculates Kendall's Tau using a multi-threaded approach.
